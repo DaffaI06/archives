@@ -4,4 +4,4 @@ This is my archive of competitive programming materials.
 
 Table of Contents
 
-1. [Bubble Sort](/archives/bubble-sort)
+1. [Bubble Sort](bubble-sort.md)
